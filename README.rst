@@ -57,7 +57,7 @@ It can be used for anything really though. If you need to search through a large
 amount of text in a multitude of files, located in different directories, then
 this app can help you.
 
-Example of Usage
+Example of Usage (Sorry for the huge images)
 ================
 .. image:: https://i.imgur.com/zjjJFJR.png
 .. image:: https://i.imgur.com/0gkyuor.png
