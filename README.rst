@@ -82,12 +82,7 @@ For WINDOWS:
 OPTION 1 EASY WAY:
    - Use the zip file in the releases section that contains the app already compiled using the PyInstaller library.
    - All you got to do is unzip it, and double click the shortcut to the executable.
-   NOTE:  Since I am just a regular programmer guy, and can't afford a certificate to sign the app with...
-    When you use the executable, it will almost certainly be picked up by Anti-Virus software as possibly 
-    malicious. I use Avast, and it gets sent to their lab to be"interrogated" For me it said it was going to take 127 
-    minutes to analyze the app to see if it is malicious. After your AV software realizes it's not malicious, it should run 
-    just fine. As far as I know, most AV companies share their malware data, so eventually the app should just be 
-    cataloged as not malicious, and this won't be an issue anymore, hopefully.
+   NOTE:  Since I have not purchased a certificate(cheapest I found was $84) to sign my applications with, the app will likely be detected by AV software as possibly malicious. Until I scrounge up the money to pay for a certificate, this will likely be a continuing issue.
     
     If you don't feel comfortable taking using this option, I don't blame you. I suggest just downloading the .py files, which you can read through all the contents and verify that they're not malicious yourself, and use PyInstaller to compile it into an executable. Or if you use Linux, you don't have to go through any of this trouble, and you can literally just execute the .py file right then and there, no need for a .exe.
 
