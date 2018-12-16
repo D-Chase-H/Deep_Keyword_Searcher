@@ -84,7 +84,7 @@ OPTION 1 EASY WAY:
    - All you got to do is unzip it, and double click the shortcut to the executable.
    NOTE:  Since I have not purchased a certificate(cheapest I found was $84) to sign my applications with, the app will likely be detected by Anti-Virus software as possibly malicious. Until I scrounge up the money to pay for a certificate, this will likely be a continuing issue.
     
-    If you don't feel comfortable taking using this option, I don't blame you. I suggest just downloading the .py files, which you can read through all the contents and verify that they're not malicious yourself, and use PyInstaller to compile it into an executable. Or if you use Linux, you don't have to go through any of this trouble, and you can literally just execute the .py file right then and there, no need for a .exe.
+    If you don't feel comfortable taking using this option, I don't blame you. I suggest just downloading the .py files, which you can read through all the contents and verify that they're not malicious yourself, and use PyInstaller to compile it into an executable. Or just run it through command promt or powershell with Python. Or if you use Linux, you don't have to go through any of this trouble, and you can literally just execute the .py file right then and there, no need for a .exe.
 
 
 OPTION 2 HARD WAY # 1:
