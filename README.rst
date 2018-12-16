@@ -112,8 +112,8 @@ Dependencies
 
 - Python 3.x (Latest version is always reccommended)
 - Python 3.x libraries(Make sure you download the Python 3.x versions)
-  * pyperclip
-  * ntpath
+    * pyperclip
+    * ntpath
 
 License
 =======
