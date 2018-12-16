@@ -59,8 +59,10 @@ this app can help you.
 
 Example of Usage
 ================
+'Pic 1 <https://drive.google.com/open?id=1pGblcU-lLwq-XMU0JAMYpbJN9uCSZMPi>'_
 
-Put pictures here later.
+.. image:: Example 1.png
+   :target: https://drive.google.com/open?id=1pGblcU-lLwq-XMU0JAMYpbJN9uCSZMPi
 
 
 Prerequisites
