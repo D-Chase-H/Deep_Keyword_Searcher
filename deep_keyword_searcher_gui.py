@@ -22,7 +22,7 @@ class Window(object):
     def __init__(self):
 
         self.root = Tk()
-        self.root.title("File Searcher")
+        self.root.title("Deep Keyword Searcher")
 
         ########## FRAMES ##########
 
