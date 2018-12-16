@@ -139,7 +139,12 @@ Features That Might Be Added Eventually... Maybe... Possibly...
 
 Donations
 =========
-Might add a link to my PayPal donations later.
+Not that I ever expect any donations for the mods I make for games, but there are just some generous people out there and I am not going to deny any appreciation someone wants to show, via money.
+
+Well, that same philosophy goes here too. I didn't make this app for money, but if you feel generous and want to donate, then here is a link to my PayPal donations account I have for my all game mod donations.
+
+.. image:: https://i.imgur.com/gmaqOA3.png
+   :target: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=FDDF9FTVUQX4S&currency_code=USD&source=url
 
 Credits
 =======
