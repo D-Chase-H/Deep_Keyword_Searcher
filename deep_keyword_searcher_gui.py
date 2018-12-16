@@ -5,6 +5,7 @@
 
 #   Author: D-Chase-H
 
+
 import platform
 import pyperclip
 from deep_keyword_searcher import KeywordFileSearch
@@ -129,10 +130,13 @@ class Window(object):
 
         ##### tree_frame widgets #####
         self.ftree = ttk.Treeview(self.tree_frame,
-                                  height=40, selectmode="extended")
-        self.ftree.heading("#0", text="Folder Path")
-        self.ftree.column("#0",minwidth=0,width=1000, stretch=NO)
+                                  height=34, selectmode="extended")
+        self.ftree.heading("#0", text="Folders")
+        self.ftree.column("#0",minwidth=0,width=1000, stretch=YES)
 
+        self.scroller = ttk.Scrollbar(self.tree_frame,
+                                      orient="vertical",
+                                      command=self.ftree.yview)
 
         ##### File_dialog Ok button functioanlity #####
         self.file_select_button.bind("<Return>", self.on_ok_regular_enter)
@@ -175,8 +179,10 @@ class Window(object):
         ##### tree_frame grid layout #####
         self.tree_frame.grid(column=0, row=11,
                              columnspan=3, rowspan=1)
-        self.ftree.grid(column=2, row=3,
+        self.ftree.grid(column=1, row=3,
                         columnspan=1, rowspan=1)
+        self.scroller.grid(column=2, row=3,
+                           columnspan=1, rowspan=1, sticky=(N,S))
 
 
         self.root.mainloop()
