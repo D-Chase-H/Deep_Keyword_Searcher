@@ -59,7 +59,9 @@ this app can help you.
 
 Example of Usage
 ================
-.. image:: https://drive.google.com/open?id=1pGblcU-lLwq-XMU0JAMYpbJN9uCSZMPi
+.. image:: https://i.imgur.com/zjjJFJR.png
+.. image:: https://i.imgur.com/0gkyuor.png
+.. image:: https://i.imgur.com/D5Nrdh7.png
 
 
 Prerequisites
