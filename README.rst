@@ -134,7 +134,7 @@ Features That Might Be Added Eventually... Maybe... Possibly...
 
 Donations
 =========
-Might add a link to my PayPal donations.
+Might add a link to my PayPal donations later.
 
 Credits
 =======
