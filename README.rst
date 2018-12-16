@@ -139,7 +139,7 @@ Might add a link to my PayPal donations.
 Credits
 =======
 
-This app was created by GitHub User D-Chase-H.
+This app was created by GitHub User, D-Chase-H.
 
     * My LinkedIn: www.linkedin.com/in/dustinchaseharmon
 
