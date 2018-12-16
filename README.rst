@@ -59,7 +59,7 @@ this app can help you.
 
 Example of Usage
 ================
-.. image::https://drive.google.com/open?id=1pGblcU-lLwq-XMU0JAMYpbJN9uCSZMPi
+.. image:: https://drive.google.com/open?id=1pGblcU-lLwq-XMU0JAMYpbJN9uCSZMPi
 
 
 Prerequisites
