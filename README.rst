@@ -87,13 +87,13 @@ OPTION 1 EASY WAY:
     If you don't feel comfortable taking using this option, I don't blame you. I suggest just downloading the .py files, which you can read through all the contents and verify that they're not malicious yourself, and use PyInstaller to compile it into an executable. Or just run it through command promt or powershell with Python. Or if you use Linux, you don't have to go through any of this trouble, and you can literally just execute the .py file right then and there, no need for a .exe.
 
 
-OPTION 2 HARD WAY # 1:
+OPTION 2 HARD WAY # 1 (Check Dependacies Section below):
    - Download Python 3.x and all the 3rd-party libraries used in the app, and then use PyInstaller yourself and compile it into an executable application yourself.
    - Download the zip with the .py files, and then follow the instructions THAT PyInstaller provides on how to turn .py files into an executable.
    - Just make sure that deep_keyword_searcher.py is in the same folder as deep_keyword_searcher_gui.py
    - Note that deep_keyword_searcher_gui.py is the GUI file, the deep_keyword_searcher.py is the file that does the heavy lifting.
 
-OPTION 3 LESS HARD WAY, but not as easy as Option 1:
+OPTION 3 LESS HARD WAY, but not as easy as Option 1(Check Dependacies Section below):
    - Download Python and all the 3rd-party libraries used in the app, and run the app in powershell.
    - Download the zip with the .py files, with all the 3rd part libraries installed, just run the deep_keyword_searcher_gui.py file in powershell.
    - Just make sure that deep_keyword_searcher.py is in the same folder as deep_keyword_searcher_gui.py
