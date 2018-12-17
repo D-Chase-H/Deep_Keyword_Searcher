@@ -145,7 +145,7 @@ Features That Might Be Added Eventually... Maybe... Possibly...
 
 Donations
 =========
-Not that I ever expect any donations for the mods I make for games, but there are just some generous people out there and I am not going to deny any appreciation someone wants to show, via money.
+Not that I ever expect any donations for the mods I make for games, but there are just some generous people out there and I am not going to turn away any appreciation someone wants to show, via their money.
 
 Well, that same philosophy goes here too. I didn't make this app for money, but if you feel generous and want to donate, then here is a link to my PayPal donations account I have for my all game mod donations.
 
