@@ -132,9 +132,15 @@ Planned Future Features
 =======================
 * Mac compatibility
 
+Probably Going To Add Features
+==============================
+* The option to set a depth limit for how far it will search into sub-directories.
+* Make the GUI look a little better. Maybe make some art to add to it.
+* Make the ability to save a search to a file, and be able to load it up, so you don't have to do it again.(Assuming no files/folders were added/removed.)
+
 Features That Might Be Added Eventually... Maybe... Possibly...
 ===============================================================
-* None Yet.
+* Other search options, like different types of fuzzy search.
 
 
 Donations
