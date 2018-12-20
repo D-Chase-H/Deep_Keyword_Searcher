@@ -7,8 +7,11 @@ Deep_Keyword_Searcher
 ===========================
 
 An app that does a deep search for a keyword.
+
 Written in Python!
+
 Yay!
+
 Go team Python!
 
 Can search for a Keyword:
