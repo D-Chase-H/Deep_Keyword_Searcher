@@ -47,13 +47,13 @@ manually, to the point that it was so much work, it just wasn't worth the effort
 For example: Let's say I was going to make some changes to a planet class
 called pc_tropical, but I wanted to make sure my changes didn't break other
 functionality related to the pc_tropical planet type, I would search for
-"pc_tropical" with this app, and anaylze the code in file where the keyword
+"pc_tropical" with this app, and anaylze the code in files where the keyword
 match was found and make changes or fixes where necessary.
 
 I personally have found this app invaluable in my modding efforts for many games
 now, and I can't even count how many hundreds of hours this app has saved me.
 
-It can be used for anything really though. If you need to search through a large
+Though, it can be used for anything really. If you need to search through a large
 amount of text in a multitude of files, located in different directories, then
 this app can help you.
 
