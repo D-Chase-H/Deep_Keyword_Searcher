@@ -67,8 +67,6 @@ Example of Usage (Sorry for the huge images)
 Prerequisites
 =============
 
-Requires Windows Vista or later.
-
 Supports Python 3.x only.
 
 Installation
