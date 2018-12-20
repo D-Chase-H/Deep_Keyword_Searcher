@@ -27,9 +27,9 @@ Other features:
    - Results displayed in an intuitive Tree Structure.
    - In file text matches are displayed with a line number to help you locate it even more easily!
    - A right click menu for files and folders in the Tree Structure.
-     * You can copy the directory path to the file or folder.
-     * You can open a folder in file explorer.
-     * You can open a file with the preferred application you have selected for that file type.
+       * You can copy the directory path to the file or folder.
+       * You can open a folder in file explorer.
+       * You can open a file with the preferred application you have selected for that file type.
 
 Works on Windows and Linux
 ==========================
