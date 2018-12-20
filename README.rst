@@ -41,10 +41,10 @@ eventually, so I guess this time it was my turn to be THAT guy. LOL
 
 I made this app while making mods for a game named Stellaris, by Paradox
 Interactive. I wanted to be able to locate all occurrences of an object I was
-going to modify. I found this every tedious to search through each file
-manually, to the point it was so much work, it just wasn't worth the effort.
+going to modify. I found it very tedious to search through each file
+manually, to the point that it was so much work, it just wasn't worth the effort.
 
-For example: I let's say I was going to make some changes to a planet class
+For example: Let's say I was going to make some changes to a planet class
 called pc_tropical, but I wanted to make sure my changes didn't break other
 functionality related to the pc_tropical planet type, I would search for
 "pc_tropical" with this app, and anaylze the code in file where the keyword
