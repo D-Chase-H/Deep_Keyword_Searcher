@@ -17,9 +17,9 @@ Can search for a Keyword:
    - In the text within a file that is inside a zipped file.
    - Can search through all sub directories of the directory you select for the search.
    - Can do case sensitive or case insensitive searches.
+   - More options and usefulness than Windows file explorer keyword search.
    - Oddly, much faster than Windows file explorer keyword search when searching for only file or folder names.
        * Still don't know why it's faster.
-   - More options and usefulness than Windows file explorer keyword search.
 
 Other features:
    - Lightweight easy to use GUI.
