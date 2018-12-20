@@ -1,7 +1,3 @@
-===========================================
-UNDER CONSTRUCTION - PLEASE COME BACK LATER
-===========================================
-
 ===========================
 Deep_Keyword_Searcher
 ===========================
@@ -9,6 +5,7 @@ Deep_Keyword_Searcher
 An app that does a deep search for a keyword through folders, files, and zipped files.
   Written in Python!
     Yay! Go team Python!
+
 
 Can search for a Keyword:
    - In file names.
