@@ -121,6 +121,11 @@ This project is licensed under the MIT License.
 See the LICENSE file for details.
  link: https://github.com/D-Chase-H/Deep_Keyword_Searcher/blob/master/LICENSE
 
+TO-DO List (Will fix to these soon)
+==========
+- Change the id of the internal zipped file matches, so you can copy and paste the path or open the file.
+- Fix some issues when searching on Linux from the root directory, or home.
+- Fine a way to visually display a folder in the tree view, when there is a keyword match within the folder's name.
 
 Planned Future Features
 =======================
